@@ -16,11 +16,11 @@ This project made for learning purposes (Machine Learning & Artifical Intelligen
 
 - 🔽  Has 5 inputs/weights
 
-- 📉  Uses **the Mean Absolute Error** as the loss function because the data is continuous 
-
 - 🏗️  Is built on **OOP** classes to help code the behaviour of an actual neuron (Activation, Learning from mistakes)
 
-- 📊  Is powered by the PyTorch machine learning library, via the **tensor, sigmoid() and abs()** algorithms in the code
+- 📊  Is powered by the PyTorch machine learning library, via the **tensor, MSE loss function() and abs()** algorithms in the code
+
+- 🎨 Uses **Matplotlib** for data visualization
 
 ## How to use this Project?
 
@@ -38,5 +38,6 @@ To use my project, you can:
 |![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)| IDE used during production |
 |![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)| Used via Colab  in order to access cloud computing power for epoches |
 |![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)| Was used via Colab as the software architecture |
+|[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org/)| Library for data visualization |
 |![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)| Used for it's builtin **sigmoid()** and **abs()** functions along with tensor objects|
   
